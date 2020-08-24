@@ -9,8 +9,8 @@ Abstract goes here.
 
 # Organization 
 
-* |Scripts| - Script required to produce the Figures and Regression results included in the article. 
-* |Data| - Includes monthly death counts obtained from the Puerto Rico Vital Statistics System from 2000-2018.
+* `/SCRIPTS/` - Script required to produce the Figures and Regression results included in the article. 
+* `/DATA/` - Includes monthly death counts obtained from the Puerto Rico Vital Statistics System from 2000-2018.
 
 # Correspondence
 For any issues with the functionality of these scripts, please [create an issue](https://github.com/alexisrsantos/placebo_hurricanemaria/issues).
