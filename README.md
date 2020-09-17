@@ -6,7 +6,7 @@ Here, I provide the code for **Duration of post-disaster mortality increments us
 Conclusions: Excess deaths attributable to Hurricane Maria were concentrated between September and November. The results suggest that no deaths occurred in excess of expected levels after November 2017. The use of placebo tests, to measure post-disaster displacements in mortality, can help determine the duration of the disruptions in events of interest caused by environmental disasters. 
 
 # Descriptive Figure
-![**Visualization of placebo effects in Puerto Rico, 2017.**](Visualization/RPlot.png "Main Figure")
+![**Visualization of placebo effects in Puerto Rico, 2017.**](/Visualization/RPlot.png "Main Figure")
 
 # Organization 
 * `/SCRIPTS/` - Script required to produce the Figures and Regression results included in the article. 
